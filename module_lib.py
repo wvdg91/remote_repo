@@ -12,3 +12,7 @@ def divide(x, y):
 
 def square(x):
     return x**2
+
+
+def raise(x, y):
+    return x**y
