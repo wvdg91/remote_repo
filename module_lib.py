@@ -14,5 +14,5 @@ def square(x):
     return x**2
 
 
-def raise(x, y):
+def raise_to(x, y):
     return x**y
